@@ -1,0 +1,10 @@
+## Evaluator
+*Luoxi Meng
+*301414920
+*luoxim@sfu.ca
+
+####What I did
+*Write Baseline codes based on the provided pseudo code, and use bigram to improve the performance
+*Tune the parameter and get the result from dev.txt as 0.92.
+*Notebook write-up
+*Organize group discussions

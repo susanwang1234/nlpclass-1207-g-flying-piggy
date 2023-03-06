@@ -1,0 +1,10 @@
+## Evaluator
+*Jia Yi (Susan) Wang
+*301286071
+*jyw30@sfu.ca
+
+####What I did
+*Participate in group discussions.
+*Tried to improve the word segmentation by adding log to the probailities to avoid arithmetic underflow for very small probabilities.
+*Modify the ensegment.ipynb file
+*Made fixes after the ensegment.py marks have been released
