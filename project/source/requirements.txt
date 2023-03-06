@@ -1,0 +1,13 @@
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+pandas
+numpy
+sklearn
+tqdm
+scipy
+keras
+tensorflow
+matplotlib
+nltk
+kaggle

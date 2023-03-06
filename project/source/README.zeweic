@@ -1,0 +1,10 @@
+## Evaluator
+*Zewei Cai
+*301414927
+*zewei_cai@sfu.ca
+
+####What I did
+*Implemented baseline of Logistic Regression and MLP in milestone
+*Implemented three neural network models (MLP, LSTM, CNN), including .py and .ipynb files
+*Wrote all parts (Approach, Experiment, Conclusion) involving three neural networks in the final report
+*Wrote three network parts in the project.ipynb file

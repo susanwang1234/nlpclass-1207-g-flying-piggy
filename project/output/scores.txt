@@ -1,0 +1,8 @@
+fileName                       date                 description              status    publicScore  privateScore  
+-----------------------------  -------------------  -----------------------  --------  -----------  ------------  
+submission_LSTM.csv            2020-12-09 06:54:13  Evaluate LSTM            complete  0.97229      0.97206       
+submission_MLP.csv             2020-12-09 06:54:09  Evaluate MLP             complete  0.96886      0.96942       
+submission_CNN.csv             2020-12-09 06:53:55  Evaluate CNN             complete  0.95989      0.96000       
+submission_logistic.csv        2020-12-09 06:53:50  Evaluate logistic        complete  0.94415      0.94355       
+submission_svc_balanced.csv    2020-12-09 06:53:44  Evaluate svc_balanced    complete  0.91595      0.91984       
+submission_svc_imbalanced.csv  2020-12-09 06:53:40  Evaluate svc_imbalanced  complete  0.73786      0.74486       

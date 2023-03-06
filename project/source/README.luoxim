@@ -1,0 +1,10 @@
+## Evaluator
+* Luoxi Meng
+* 301414920
+* luoxim@sfu.ca
+
+####What I did
+* Implemented and evaluated Support Vector Classifier and Logistic Regression models.
+* Improved the features fed to the Neural Networks by removing stop words
+* Wrote contents related to SVC, Logistic Regression and Implementation in the final report
+* Wrote relative parts in the project.ipynb file
